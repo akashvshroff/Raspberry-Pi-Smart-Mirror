@@ -14,4 +14,8 @@
 
 ![alt-text](https://github.com/akashvshroff/Raspberry_Pi_Smart_Mirror/blob/master/Footage/Initial_Plan_2.jpg)
 
-- Note that this layout did change in the end, here are some pictures of what the final build looked like.
+- Note that this layout did change in the end, here are some pictures of what the final build looked like, please excuse the shaky labels and squiggly handwriting - it was my wacom not me.
+
+![alt-text](https://github.com/akashvshroff/Raspberry_Pi_Smart_Mirror/blob/master/Footage/IMG_20200804_104601.jpg)
+
+![alt-text](https://github.com/akashvshroff/Raspberry_Pi_Smart_Mirror/blob/master/Footage/IMG_20200814_165642.jpg)
