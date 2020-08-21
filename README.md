@@ -19,3 +19,5 @@
 ![alt-text](https://github.com/akashvshroff/Raspberry_Pi_Smart_Mirror/blob/master/Footage/IMG_20200804_104601.jpg)
 
 ![alt-text](https://github.com/akashvshroff/Raspberry_Pi_Smart_Mirror/blob/master/Footage/IMG_20200814_165642.jpg)
+
+- Now onto the fun bit, the software. Here too, I am not going to go into setting up the pi or downloading the MagicMirror software but rather I want to focus on the different modules that I used, resources for setting them up and finally why I chose each module. I chose not to include the built in modules that shipped with the software in this article since they have not been added by me (although these are customizable too which is mentioned in the above set-up article).
