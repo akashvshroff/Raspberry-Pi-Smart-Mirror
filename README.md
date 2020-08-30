@@ -1,3 +1,5 @@
+### Watch the final video outlining the build [here!](https://youtu.be/xh9bbCxH39c)
+
 # Outline:
 
 - I've always wanted to learn how to use Linux and therefore I purchased a Raspberry Pi 4 and started tinkering around. After spending a few days understanding the Linux file system, having gotten accustomed to the Windows setup, I wanted to build a fun project that would allow me to dive deeper into the pi whilst also building something that could be useful. That was when I came across [Gremson's Magic Mirror YouTube Video](https://www.youtube.com/watch?v=aa3VVZA0e5Y) and was instantly intrigued. I loved the idea of a mirror - an everyday commonplace item - being extended and made more useful by some seemingly simple tech! I had found my project and wanted to design the mirror as a gift.
