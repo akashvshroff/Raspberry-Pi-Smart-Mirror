@@ -1,4 +1,5 @@
-### Watch the final video outlining the build [here!](https://youtu.be/xh9bbCxH39c)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xh9bbCxH39c" target="_blank"><img src="http://img.youtube.com/vi/xh9bbCxH39c/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="420" border="10" />
+</a>
 
 # Outline:
 
